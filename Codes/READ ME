@@ -1,0 +1,20 @@
+Trials Selection - Study 1:
+
+This is the order in which you will need the successive pieces of code.
+
+options.mat
+
+Create_sim_data.m
+
+Score_computationPerUT.m
+
+Compile_Scores.m
+
+Performance_analysis.m
+
+    structure_initial_variables.m
+    destructure_initial_variables.m
+    fit_sim_subject.m
+    test_models_ga.m
+    loglike.m
+   
