@@ -1,3 +1,5 @@
+Start in the Trial Selection folder
+
 Trials Selection - Study 1:
 
 This is the order in which you will need the successive pieces of code.
@@ -18,7 +20,7 @@ Performance_analysis.m
     test_models_ga.m
     loglike.m
    
-Once the selected trials for the experiment are determined, and the data is colledted:
+Once the selected trials for the experiment are determined, and the data is collected. go to the Analysis folder
 
 ANALYSIS_CODE.m
 
