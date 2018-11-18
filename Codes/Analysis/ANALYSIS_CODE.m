@@ -18,7 +18,7 @@ partners = {'friend','stranger'};
 n_partners = length(partners);
 n_subjects = length(s_n_list);
 
-analysisVars = structure_analysis_variables(partners,n_partners,s_n_list,n_subjects); % do I need to structure this? 
+analysisVars = structure_analysis_variables(partners,n_partners,s_n_list,n_subjects); 
 
 
 AS = cell(n_subjects,1); % AS = Analyzed Subjects. 
