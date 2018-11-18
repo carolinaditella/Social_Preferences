@@ -18,3 +18,7 @@ Performance_analysis.m
     test_models_ga.m
     loglike.m
    
+Once the selected trials for the experiment are determined, and the data is colledted:
+
+ANALYSIS_CODE.m
+
