@@ -5,4 +5,4 @@ Here we developed a novel trial seletion method which we applied to a 2AFC dicta
 
 In this repository we include Data and Code relevant to our project. 
 
-In the Codes folder, you can start by the Trial_selection folder and then move on to the Analysis folder, or go straight to the Analysis folder. Each one contained a README explanatory file. 
+In the Codes folder, you will find another README.md file that will help you navigate this repository. 
